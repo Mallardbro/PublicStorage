@@ -1,0 +1,6 @@
+{
+  "name": "weekly-50",
+  "challenge1": {"instruction":"Find 50 Pairs", "type":"pairs_found", "count":50},
+  "challenge2": {"instruction":"Play 20 Matches", "type":"mathces_played", "count":20},
+  "challenge3": {"instruction":"Heal 5 Times", "type":"times_healed", "count":5}
+}
